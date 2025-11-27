@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: projeto-api
+    name: EPI - Controle Senai
     env: docker
     plan: free
     autoDeploy: true
