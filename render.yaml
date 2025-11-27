@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: epi-=controlesenai
+    name: epi-controlesenai
     env: docker
     plan: free
     autoDeploy: true
