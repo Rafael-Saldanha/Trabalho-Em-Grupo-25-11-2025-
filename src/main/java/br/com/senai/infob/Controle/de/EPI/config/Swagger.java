@@ -1,4 +1,4 @@
-package br.com.senai.infob.Controle.de.EPI.config;
+package br.com.senai.infob.controle.de.epi.config;
 
 public class Swagger {
     

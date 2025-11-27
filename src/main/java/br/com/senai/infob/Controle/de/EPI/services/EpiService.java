@@ -1,4 +1,4 @@
-package br.com.senai.infob.Controle.de.EPI.services;
+package br.com.senai.infob.controle.de.epi.services;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

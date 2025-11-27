@@ -1,4 +1,4 @@
-package br.com.senai.infob.Controle.de.EPI;
+package br.com.senai.infob.controle.de.epi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

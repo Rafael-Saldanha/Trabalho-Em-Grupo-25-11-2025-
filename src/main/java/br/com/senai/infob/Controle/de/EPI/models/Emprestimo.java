@@ -1,4 +1,4 @@
-package br.com.senai.infob.Controle.de.EPI.models;
+package br.com.senai.infob.controle.de.epi.models;
 
 import java.time.LocalDateTime;
 

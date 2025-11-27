@@ -1,4 +1,4 @@
-package br.com.senai.infob.Controle.de.EPI.controllers;
+package br.com.senai.infob.controle.de.epi.controllers;
 
 
 import org.springframework.beans.factory.annotation.Autowired;
