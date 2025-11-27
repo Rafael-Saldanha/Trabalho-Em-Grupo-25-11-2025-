@@ -56,4 +56,9 @@ usuario.setId(id);
  }
  return false;
 }
+
+public Usuario cadastro(Usuario usuario) {
+        return usuarioRepository.save(usuario);
+
+    }
 }
